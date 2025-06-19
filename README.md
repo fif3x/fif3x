@@ -15,7 +15,7 @@ The languages i have worked with are below:
 
 # Dream University
 
-My dream university is MIT (Massachusets Institute of Technology), and im trying to make my portfolio as good as possible so i can get accepted.
+My dream university is MIT (Massachusets Institute of Technology) or AUT (ΑΠΘ) (Aristotle University of Thessaloniki) and im trying to make my portfolio as good as possible so i can get accepted.
 
 # Projects
 
