@@ -8,7 +8,7 @@ Im fif3x, AKA fifex, an open-source contributor. Im a member of TCD (The Coding 
 
 The languages i have worked with are below:
 1. C++ (Main Language)
-2. Arduino Lang (C++ like language)
+2. .ino
 3. Batch (Only a bit)
 4. HTML (Only the basics)
 5. Python (Certification of basics in the language)
