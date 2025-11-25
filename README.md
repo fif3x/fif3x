@@ -6,19 +6,11 @@ Im fif3x, AKA fifex, an open-source contributor. My goal is to contribute as muc
 
 # Languages i have worked with
 
-My main languages are C and C++, but i sometimes write shell/batch scripts or write some HTML
+My main languages are C and C++, i use Bash for scripting and automating processes, i do a little bit of Rust, and have also worked with x86_64 Assembly
 
 # Dream University
 
 My dream university is MIT (Massachusets Institute of Technology) or AUT (ΑΠΘ) (Aristotle University of Thessaloniki) and im trying to make my portfolio as great as possible so i can get accepted.
-
-# Projects
-
-My largest projects are:
-
-1. [LibreTerminal](https://github.com/fif3x/Libre-Terminal)
-2. [Fiftree](https://github.com/fif3x/fiftree)
-3. More
 
 <img width="384" height="234" alt="71" src="https://github.com/user-attachments/assets/4bddf6d5-f762-4242-b0cd-a390bfe32095" />
 
